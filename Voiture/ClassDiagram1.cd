@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Voiture.Voiture">
+    <Position X="1.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAACAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\Voiture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Voiture.VoitureBuilder">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Builder\VoitureBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Voiture.Ouvrier">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAYgAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\Ouvrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Voiture.ClioBuilder">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Builder\ClioBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Voiture.EspaceBuilder">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Builder\EspaceBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
